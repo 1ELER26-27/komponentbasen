@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Infrarød hindringssensor (KY-032)
 
+![Infrarød hindringssensor (KY-032)](/bilder/komponenter/SEN-006.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

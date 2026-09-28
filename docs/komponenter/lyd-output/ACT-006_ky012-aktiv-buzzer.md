@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Aktiv buzzer-modul (KY-012)
 
+![Aktiv buzzer-modul (KY-012)](/bilder/komponenter/ACT-006.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Passiv buzzer-modul (KY-006)
 
+![Passiv buzzer-modul (KY-006)](/bilder/komponenter/ACT-007.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

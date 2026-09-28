@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Analog Hall-sensor (KY-035)
 
+![Analog Hall-sensor (KY-035)](/bilder/komponenter/SEN-005.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

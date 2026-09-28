@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Digital Hall-sensor (KY-003)
 
+![Digital Hall-sensor (KY-003)](/bilder/komponenter/SEN-004.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

@@ -16,6 +16,8 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Vann- og regnsensor
 
+![Vann- og regnsensor](/bilder/komponenter/SEN-001.jpg)
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

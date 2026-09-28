@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Reed-brytermodul (KY-025)
 
+![Reed-brytermodul (KY-025)](/bilder/komponenter/SEN-016.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

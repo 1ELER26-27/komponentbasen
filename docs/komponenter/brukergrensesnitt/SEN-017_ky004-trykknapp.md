@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Trykknappmodul (KY-004)
 
+![Trykknappmodul (KY-004)](/bilder/komponenter/SEN-017.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Tofarget LED-modul (KY-011)
 
+![Tofarget LED-modul (KY-011)](/bilder/komponenter/ACT-003.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

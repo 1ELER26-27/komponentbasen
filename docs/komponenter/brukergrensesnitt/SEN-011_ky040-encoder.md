@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Rotary encoder-modul (KY-040)
 
+![Rotary encoder-modul (KY-040)](/bilder/komponenter/SEN-011.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

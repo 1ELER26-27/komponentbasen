@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # RGB LED-modul (KY-009)
 
+![RGB LED-modul (KY-009)](/bilder/komponenter/ACT-002.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

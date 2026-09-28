@@ -323,6 +323,62 @@ body {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
+/* ==========================================================================
+   Komponentbilder
+   ========================================================================== */
+
+.vp-doc img {
+  display: block;
+  max-width: 360px;
+  max-height: 280px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  border: 1px solid var(--kb-table-border);
+  background-color: var(--vp-c-bg-elv);
+  padding: 8px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.vp-doc img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 16px -2px rgba(0, 0, 0, 0.1);
+}
+
+/* Små miniatyrbilder i oversiktstabeller */
+.vp-doc td img.tabell-bilde {
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+  min-width: 48px;
+  max-width: 48px;
+  max-height: 48px;
+  object-fit: contain;
+  margin: 0 !important;
+  padding: 2px;
+  border-radius: 6px;
+  background-color: #ffffff;
+  border: 1px solid var(--kb-table-border);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  vertical-align: middle;
+  transition: transform 0.15s ease;
+}
+
+.dark .vp-doc td img.tabell-bilde {
+  background-color: #1e293b;
+  border-color: #334155;
+}
+
+.vp-doc td img.tabell-bilde:hover {
+  transform: scale(1.4);
+  z-index: 10;
+  position: relative;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
 /* Responsiv tilpasning for mobil / små skjermer */
 @media (max-width: 640px) {
   .vp-doc table {
@@ -338,5 +394,9 @@ body {
   
   .vp-doc h1 {
     font-size: 1.75rem;
+  }
+
+  .vp-doc img {
+    max-width: 100%;
   }
 }

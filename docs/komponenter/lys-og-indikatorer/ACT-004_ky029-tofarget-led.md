@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Tofarget LED-modul (KY-029)
 
+![Tofarget LED-modul (KY-029)](/bilder/komponenter/ACT-004.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

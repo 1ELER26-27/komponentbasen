@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Vibrasjonssensor (KY-002)
 
+![Vibrasjonssensor (KY-002)](/bilder/komponenter/SEN-012.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

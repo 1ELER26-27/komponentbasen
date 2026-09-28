@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # NTC-temperaturmodul (KY-013)
 
+![NTC-temperaturmodul (KY-013)](/bilder/komponenter/SEN-003.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Flamme- og IR-sensor (KY-026)
 
+![Flamme- og IR-sensor (KY-026)](/bilder/komponenter/SEN-008.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | S1-rad D er satt av til kategorien; nøyaktig skuffnummer er ikke fastsatt |

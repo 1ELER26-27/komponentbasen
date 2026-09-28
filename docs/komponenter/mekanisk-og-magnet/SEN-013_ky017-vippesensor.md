@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Vippesensor-modul (KY-017)
 
+![Vippesensor-modul (KY-017)](/bilder/komponenter/SEN-013.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

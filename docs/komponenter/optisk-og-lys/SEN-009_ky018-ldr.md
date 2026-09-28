@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Fotomotstand-modul (KY-018)
 
+![Fotomotstand-modul (KY-018)](/bilder/komponenter/SEN-009.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

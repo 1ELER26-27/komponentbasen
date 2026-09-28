@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Mikrofon-/lydsensormodul (KY-037)
 
+![Mikrofon-/lydsensormodul (KY-037)](/bilder/komponenter/SEN-018.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

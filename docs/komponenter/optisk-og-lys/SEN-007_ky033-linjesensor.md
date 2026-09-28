@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Infrarød linjesensor (KY-033)
 
+![Infrarød linjesensor (KY-033)](/bilder/komponenter/SEN-007.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

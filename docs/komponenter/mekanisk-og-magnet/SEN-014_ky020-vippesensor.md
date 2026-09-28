@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Vippesensor-modul (KY-020)
 
+![Vippesensor-modul (KY-020)](/bilder/komponenter/SEN-014.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

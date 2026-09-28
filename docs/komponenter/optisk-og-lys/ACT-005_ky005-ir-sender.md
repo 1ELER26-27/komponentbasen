@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Infrarød LED-sender (KY-005)
 
+![Infrarød LED-sender (KY-005)](/bilder/komponenter/ACT-005.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |

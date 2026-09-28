@@ -16,6 +16,9 @@ kilde: "docs/sensorer_midlertidig.md"
 
 # Optisk gaffelsensor (KY-010)
 
+![Optisk gaffelsensor (KY-010)](/bilder/komponenter/SEN-010.jpg)
+
+
 | Nøkkelfakta | Verdi |
 | :--- | :--- |
 | **Lokasjon** | Uavklart |
