@@ -1,0 +1,80 @@
+name: Ny eller endret komponent
+description: Be om en komponentoppføring i den interne elevkatalogen.
+title: "Komponent: "
+labels:
+  - komponent
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Oppgi bare informasjon du har bekreftet. Ikke gjett på spenning, pinout eller
+        skuffplassering. Standardkomponenter fra egne hyller skal ikke registreres.
+  - type: input
+    id: modell
+    attributes:
+      label: Komponentnavn og modell
+      description: Oppgi nøyaktig modell/variant hvis den er kjent.
+      placeholder: For eksempel produsent og modellnummer
+    validations:
+      required: true
+  - type: dropdown
+    id: handling
+    attributes:
+      label: Hva skal gjøres?
+      options:
+        - Legg til ny komponent
+        - Endre eksisterende oppføring
+    validations:
+      required: true
+  - type: dropdown
+    id: kategori
+    attributes:
+      label: Kategori
+      options:
+        - miljo-og-klima
+        - gass-og-flamme
+        - optisk-og-lys
+        - mekanisk-og-magnet
+        - avstand-og-rom
+        - lyd-og-akustikk
+        - brukergrensesnitt
+        - lys-og-indikatorer
+        - lyd-output
+        - kraft-og-styring
+    validations:
+      required: true
+  - type: input
+    id: lokasjon
+    attributes:
+      label: Fysisk plassering
+      description: Skuff-ID hvis kjent, ellers skriv «ukjent».
+      placeholder: S1-A01-A eller ukjent
+    validations:
+      required: true
+  - type: textarea
+    id: spenning
+    attributes:
+      label: Spenning og signal
+      description: Skill mellom forsyningsspenning og signalspenning/utgangsnivå.
+      placeholder: Oppgi også om en utgang kan være 5 V.
+    validations:
+      required: true
+  - type: textarea
+    id: bruk
+    attributes:
+      label: Bruk og tilkobling
+      description: Hva gjør komponenten, og hva bør eleven vite for å koble den til?
+    validations:
+      required: true
+  - type: textarea
+    id: kort
+    attributes:
+      label: Mikrokontrollerkort
+      description: Oppgi testet/ønsket Arduino Uno-variant og/eller ESP32-kort.
+  - type: textarea
+    id: dokumentasjon
+    attributes:
+      label: Kilder og bilde
+      description: Lenke til datablad/produsentside og eventuelt bilde du har rett til å dele.
+    validations:
+      required: true

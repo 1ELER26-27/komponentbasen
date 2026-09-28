@@ -1,0 +1,129 @@
+:root {
+  --vp-c-brand-1: #08776c;
+  --vp-c-brand-2: #08665d;
+  --vp-c-brand-3: #07544d;
+  --vp-c-brand-soft: rgba(8, 119, 108, 0.1);
+  --vp-c-bg: #f7f9f6;
+  --vp-c-bg-alt: #eef3ef;
+  --vp-c-bg-elv: #ffffff;
+  --vp-c-border: #d9e2dc;
+  --vp-c-divider: #e4eae5;
+  --vp-c-text-1: #182b27;
+  --vp-c-text-2: #455a54;
+  --vp-c-text-3: #687a74;
+  --vp-font-family-base: "Trebuchet MS", "Segoe UI", sans-serif;
+  --vp-font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  --vp-nav-height: 64px;
+  --vp-sidebar-width: 256px;
+}
+
+body {
+  background-image: linear-gradient(90deg, rgba(8, 119, 108, 0.025) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.VPNav {
+  background: rgba(247, 249, 246, 0.94);
+  backdrop-filter: blur(12px);
+}
+
+.VPNavBarTitle .title {
+  font-weight: 750;
+}
+
+.VPDoc .content {
+  max-width: 760px;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  color: #173b34;
+  letter-spacing: 0;
+}
+
+.vp-doc h1 {
+  font-size: 2.35rem;
+  line-height: 1.14;
+}
+
+.vp-doc p,
+.vp-doc li {
+  line-height: 1.72;
+}
+
+.vp-doc table {
+  display: table;
+  width: 100%;
+}
+
+.vp-doc th {
+  color: #174a41;
+  background: #edf4ef;
+}
+
+.vp-doc .custom-block.warning {
+  border-color: #d99136;
+  background: #fff7e8;
+}
+
+.vp-doc .custom-block.warning .custom-block-title {
+  color: #794208;
+}
+
+.catalog-actions {
+  margin: 28px 0 36px;
+}
+
+.catalog-link {
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  gap: 14px;
+  padding: 0 20px;
+  border: 1px solid #07544d;
+  border-radius: 4px;
+  background: #08776c;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background-color 160ms ease, transform 160ms ease;
+}
+
+.vp-doc a.catalog-link,
+.vp-doc a.catalog-link:visited {
+  color: #fff;
+}
+
+.catalog-link:hover {
+  transform: translateY(-2px);
+  background: #07544d;
+}
+
+.catalog-link:focus-visible {
+  outline: 3px solid #d99136;
+  outline-offset: 3px;
+}
+
+@media (max-width: 640px) {
+  :root {
+    --vp-nav-height: 56px;
+  }
+
+  .vp-doc h1 {
+    font-size: 1.85rem;
+  }
+
+  .vp-doc table {
+    font-size: 0.88rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
