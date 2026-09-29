@@ -14,6 +14,7 @@ export default defineConfig({
     nav: [
       { text: 'Hjem', link: '/' },
       { text: 'Komponenter', link: '/komponenter/' },
+      { text: 'Ressurser & kilder', link: '/ressurser' },
       { text: 'Om basen', link: '/om' }
     ],
     sidebar: {
